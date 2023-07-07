@@ -16,6 +16,7 @@ class Controller extends BaseController
         ]);
 
         $img = $helperService->uploadImages($request->file('images'));
+        $helperService->detectText($img);
 
         return response()->json([
             'message' => 'Upload Success',
