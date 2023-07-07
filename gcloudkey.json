@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nifty-analyst-391804",
+  "private_key_id": "ff4c61eb72e55372095c2031fe62710f17c3f666",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDdhFV1nAOHDAmx\nqB9YXW/ZkBOAlSeGxeTwRhgkyKZbEPqUwyV3Tfr3gFe7gAtcXj8jHv/K9glZsEtC\nwC/oCW04rZudygpH/4P04udGZjpFb9Cn/1y2abW43KicWZCC11wN74hCA0O/N8c8\nsWhz0vlxTj9L+Jq6051BQRhEW6UwI+Nv/k0BYOc+wNTTf2gq97AGJ3KmGyBSpCTR\nDLCWgRDREzfGd5A4n4+Zv9YyIhh645Q+WacD7nG0QJzpPFSMsvmah82drrzJDUK5\nVVsKMSvP65Xknkzt7oQedEx8ucWI1OQ++MjWhYlwF25drn/eMasl9h2OFrN6LWGU\nxq0kqHdRAgMBAAECgf8H2Z7BmQXLPx2ybgtY/iQy5X2HLAZBrfIEXpmsysqR5Dns\nCNaN6BH+LbSTM1AL7tOgdPSCDd3dt6GpMfYDgDtDoIhcJHjmUAQ5kUK6hHurdJZV\nXcb6+d2lsOI3uUool3CqRqa5mWbc26RJNvTkezkUqiRpbvLC1taSkZtGSFnazgSR\nvpCiW15h8T3rn8nsSyyxONSoxH/NVCY3g6L8vwTpiRH+ORJpMD5Nx5dpLM89gWUd\n2tAl9EIwLDuIudmIWsEmP2FGUyM3ggQe2Akh3w+ngbXukN0EaHoZAk7YK+eIZTY/\nx261Hb3k20J+L9Lu3Zb8qtg+4XwoA9jZrxTPao0CgYEA8faTaWVPLl70GPOycmsg\nAxeejtusQe5oQ5UY2kmBp8XJtNiT7afC1UzmaiTfaqhR4yxgrPZH8oOg7LeumDJV\n4dnMXPhQmk2zGS/bXN/bUkGpL3TXDTIfKpa3hk6ldg2nEEw1/WvD7dc9mfFNJdzE\n5CLilRRtAVz6lcfIYRycOWUCgYEA6l4bseQw/nYkJX0OEqxt7PnrKUwgt23y8foL\nGJIlUmOSvnsDgaGAHXAZXAQsUEWG0ib8r1kKKkhaID6jWxJJtBh2kvnjWoc9A+WH\nxXXbIRnn1hAveeag9GifnLJXmJHqkVIsgS0vha1HnlsTluWopOvUZwfqC/3YPw+v\nfeRgHX0CgYEAlUHAfzRiWr1yH+48Nr6EOcQZKBC0OtuA76eKdCUB2Od2XJt47RIe\naouMWw+xzc5U7SjT3f3yNdQiscNA7VunhLFgkj0PI5AombHexHTGiwA8CC0v91Di\nzte4EB51jNQxKSmJ6HDQpOewdUTXjTKZNg2a7dFyyHN9lGVv4w/OAs0CgYEAo7t1\nS7UoyU0N+abBIyiVb141/NbzcFJ+zLAr+lF3g3SO+0YDcBe84lQDU3aS4s1/3+de\n1r20zU9Yr3gzNZe0J/6DMDEltYQPi15amQe6PAjWH4WVNWt6/OTuxVEOw0cFgdrP\nvrsrnQ8unqHwMJZnWDhtXkF4MEJ6RawWpTPcNh0CgYBNxVcgZi8jPmaN0U9Ktjk3\nbib66WO0bGS48ND5O4gS/QpNjavQC8lGmu7p6OglyfSrMo/z/GWgKpIhZAl5dmxK\nxI1wdIMDSIyPAnTkw+IoaeazAQfJ5VNPnzrxQt2WPMnm0loF0xBluPhkhKkCk1kI\n+AKDDxZDNnjzICKkFeioSA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "malesbacaadmin@nifty-analyst-391804.iam.gserviceaccount.com",
+  "client_id": "116814588357821426760",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/malesbacaadmin%40nifty-analyst-391804.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
