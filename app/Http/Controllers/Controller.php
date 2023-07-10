@@ -16,11 +16,11 @@ class Controller extends BaseController
         ]);
 
         $img = $helperService->uploadImages($request->file('images'));
-        $helperService->detectText($img);
-
+        $txt = $helperService->detectText($img);
+        $audio = $helperService->textToSpeech($txt[0]['fullTextAnnotation']['text']);
         return response()->json([
-            'message' => 'Upload Success',
-            'images' => $img,
+            'message' => 'Detection Success',
+            'base64Audio' => $audio->json()['audioContent'],
         ]);
     }
 }

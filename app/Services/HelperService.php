@@ -55,6 +55,31 @@ class HelperService{
             'Accept' => 'application/json',
             'x-goog-api-key' => $key,
         ])
+        ->post($url , $params)['responses'];
+    }
+
+    public function textToSpeech($text){
+        $key = "AIzaSyC1ycTAqt4cox4cdbdqYpZ8hhC1QazjASM";
+        $url = "https://texttospeech.googleapis.com/v1/text:synthesize";
+
+        $params = [
+            "audioConfig" => [
+              "audioEncoding" => "MP3"
+            ],
+            "input" => [
+              "text" => $text
+            ],
+            "voice" => [
+              "name" => "id-ID-Standard-C",
+              "languageCode" => "id-ID"
+            ]
+        ];
+
+        return Http::withHeaders([
+            'Content-Type: application/json',
+            'Accept' => 'application/json',
+            'x-goog-api-key' => $key,
+        ])
         ->post($url , $params);
     }
 }
